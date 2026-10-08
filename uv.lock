@@ -7093,7 +7093,7 @@ wheels = [
 ]
 
 [[package]]
-name = "yolo-vision-studio"
+name = "yolo-streamlit-detection-tracking"
 version = "2.1.0"
 source = { virtual = "." }
 dependencies = [
